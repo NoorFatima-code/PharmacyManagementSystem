@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/AddNewSalePanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/DeleteSupplierPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Order.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/ManufacturerManagerPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/DBConnection.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Manufacturer.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/UpdateSupplierPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/ViewAllOrdersPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Customer_Manager.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/SalesRecord.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/LoginPage.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/LoginPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/SearchOrderPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/UpdateOrderPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/SaleRecordManagerPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/SalesRecordManager.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/MedicineManager.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/DeleteManufacturerPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Customer.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/SearchSupplierPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/AddSupplierPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/OrderItem.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Manufacturer_Manager.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/AddOrderPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/ViewAllSuppliersPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/MainDashboardPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/BackgroundPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Medicine.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/MedicineManagerPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/PharmacymanagementsystemFINAL.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Supplier.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/Supplier_Manager.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/AddManufacturerPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/pharmacymanagementsystemFINAL/src/pharmacymanagmentsystem/DeleteOrderPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
