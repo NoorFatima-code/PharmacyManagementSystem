@@ -42,8 +42,8 @@ A desktop-based Pharmacy Management System developed using **Java (Swing GUI)** 
 - 👨‍🏫 **Instructor:** Sir Ashfaq Ahmad  
 - 👩‍💻 **Developers:**  
   - Noor Fatima  
-  - Rida  
-  - Urwa  
+  - Rida Fatima 
+  - Urwa tul Wusqa 
 
 Special thanks to our teacher for guidance, and to my amazing teammates for the collaboration and effort!
 
